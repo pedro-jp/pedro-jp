@@ -19,7 +19,7 @@
 </div> 
 <div>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="pedro-jp" /></p>
+<p><a href="https://github.com/pedro-jp"><img align="left" src="https://github-readme-stats.vercel.app/api?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="pedro-jp" /><a></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true" alt="pedro-jp" /></p>
 
