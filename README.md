@@ -21,7 +21,7 @@
   
 <p align = "left" ><a href="https://github.com/pedro-jp"><img  src="https://github-readme-stats.vercel.app/api?username=pedro-jp&hide=stars,issues,contribs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="pedro-jp" /><a></p>
 
-<p align = "left" >&nbsp;<a href="https://github.com/pedro-jp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true" alt="pedro-jp" /></a></p>
+<p align = "right" >&nbsp;<a href="https://github.com/pedro-jp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true" alt="pedro-jp" /></a></p>
 
 <p align = "center" >&nbsp;<a href="https://github.com/pedro-jp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" /></a></p>
 
