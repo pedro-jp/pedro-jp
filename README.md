@@ -23,7 +23,7 @@
   <a href="https://github.com/pedro-jp">
     <img width="36%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" />
   </a>
-  <a href="https://github.com/pedro-jp">
+  <a href="https://github.com/pedro-jp#tooltip-b1a55799-830b-4906-a1c4-ea4323a43186">
     <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true" alt="pedro-jp" />
   </a>
 </p>
