@@ -25,12 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="pedro-jp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-jp&show_icons=true&locale=en" alt="pedro-jp" /></p>
-
- 
-![pedro-jp's Stats](https://github-readme-stats.vercel.app/api?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-  
-![pedro-jp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true) 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true" alt="pedro-jp" /></p>
 
 ![pedro-jp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
