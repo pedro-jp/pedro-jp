@@ -16,16 +16,12 @@
 </div>
 <div>
   <h2 align = "justified" display = "flex" >GitHub Stats</h2>
- <div> 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+</div> 
+<div>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="pedro-jp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true" alt="pedro-jp" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true" alt="pedro-jp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" /></p>
 
