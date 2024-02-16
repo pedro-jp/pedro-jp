@@ -23,7 +23,7 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-jp&show_icons=true&locale=en&layout=compact" alt="pedro-jp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="pedro-jp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-jp&show_icons=true&locale=en" alt="pedro-jp" /></p>
 
