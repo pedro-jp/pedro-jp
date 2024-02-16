@@ -3,7 +3,7 @@
 <h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=57BCDA&center=true&vCenter=true&random=false&width=635&height=50&lines=Hey+there!+I'm+Thalita+Alencar.;Nice+to+meet+you!;Full-Stack+Developer+" alt="Typing SVG" /></a></h1>
 <div>
   <h2 align "justified">About me</h2>
-  <img align = "right" src= "https://dev-pedro-portfolio.vercel.app/assets/perfil-disney.png?width=120&height=120">
+  <img align = "right" src= "https://dev-pedro-portfolio.vercel.app/assets/perfil-disney.png?width=12&height=12">
 <p><br>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| I'm currently studying Software Development at FIAP.<br>🌱| I'm learning new things every day.<br>📌| Full Stack Developer.
 </div>
 <div>
