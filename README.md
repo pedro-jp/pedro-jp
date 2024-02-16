@@ -3,7 +3,7 @@
 <h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=57BCDA&center=true&vCenter=true&random=false&width=635&height=50&lines=Hey+there!+I'm+João+Pedro;Nice+to+meet+you!;Full-Stack+Developer+" alt="Typing SVG" /></a></h1>
 <div>
   <h2 align "justified">About me</h2>
-  <p width="50%" justify="justify">Passionate about exploring the diversity of technology, I am currently immersed in the field of Computer Engineering at FECaf. My focus revolves around continual learning, incorporating new insights and competencies daily. Aspiring to become a Full Stack Developer, I actively contribute to shaping the future of software development.</p>
+  <p width="50">Passionate about exploring the diversity of technology, I am currently immersed in the field of Computer Engineering at FECaf. My focus revolves around continual learning, incorporating new insights and competencies daily. Aspiring to become a Full Stack Developer, I actively contribute to shaping the future of software development.</p>
   <img align = "right" src= "https://dev-pedro-portfolio.vercel.app/assets/perfil-disney.png?" width="180" height="180">
 <p><br>
 </div>
