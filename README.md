@@ -19,8 +19,9 @@
 <a href = "http://www.github.com/pedro-jp"><img align= "left" height = "170em" src ="https://github-readme-stats.vercel.app/api?username=pedro-jp&theme=react&hide_border=true&include_all_commits=false&count_private=true"<br/>
 <img align = "right"height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=react&hide_border=true&layout=compact" alt="pedro-jp"/></p>
 </div>
-
+![pedro-jp's Stats](https://github-readme-stats.vercel.app/api?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![pedro-jp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true)
+![pedro-jp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <div> 
   <br> <br> <br> <br> <br> <br> <br>
