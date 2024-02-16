@@ -8,9 +8,8 @@
   </a>
 </h1>
 
-<div height="200">
+<div>
   <h2>About me</h2>
-  <img align = "right" src= "https://dev-pedro-portfolio.vercel.app/assets/perfil-disney.png?" width="180" height="180">
   <p style="width: 50%; text-align: justify">
     I'm João Pedro, a Computer Engineering student at Fecaf with a passion for technology. I thrive on continuous learning and strive to contribute to the ever-evolving field of software development. Aspiring Full Stack Developer.
   </p>
