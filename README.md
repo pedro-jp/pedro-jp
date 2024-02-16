@@ -17,7 +17,7 @@
 <div>
   <h2 align = "justified">GitHub Stats</h2>
 <a href = "http://www.github.com/pedro-jp"><img align= "left" height = "170em" src ="https://github-readme-stats.vercel.app/api?username=pedro-jp&theme=react&hide_border=true&include_all_commits=false&count_private=true"<br/>
-<img align = "right"height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallencar&theme=react&hide_border=true&layout=compact" alt="thallencar"/></p>
+<img align = "right"height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=react&hide_border=true&layout=compact" alt="pedro-jp"/></p>
 </div>
 
 <div> 
