@@ -20,6 +20,8 @@
 <img align = "right"height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=react&hide_border=true&layout=compact" alt="pedro-jp"/></p>
 </div>
 
+![pedro-jp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true)
+
 <div> 
   <br> <br> <br> <br> <br> <br> <br>
   <h2 align = "justified"></h2>
