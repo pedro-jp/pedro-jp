@@ -17,13 +17,13 @@
 <div>
   <h2 align = "justified" display = "flex" >GitHub Stats</h2>
 </div> 
-<div style="display: flex; align-items: center; justify-content: center;" >
+<div style="background: red" >
   
 <p><a href="https://github.com/pedro-jp"><img align = "left" src="https://github-readme-stats.vercel.app/api?username=pedro-jp&hide=stars,issues,contribs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="pedro-jp" /><a></p>
 
 <p>&nbsp;<a href="https://github.com/pedro-jp"><img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true" alt="pedro-jp" /></a></p>
 
-<p">&nbsp;<a href="https://github.com/pedro-jp"><img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" /></a></p>
+<p>&nbsp;<a href="https://github.com/pedro-jp"><img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" /></a></p>
 
 </div>
   
