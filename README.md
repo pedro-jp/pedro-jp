@@ -23,7 +23,7 @@
 
 <p>&nbsp;<a href="https://github.com/pedro-jp"><img width="50%" align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true" alt="pedro-jp" /></a></p>
 
-<p>&nbsp;<a href="https://github.com/pedro-jp"><img width="100%" align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" /></a></p>
+<p>&nbsp;<a href="https://github.com/pedro-jp"><img width="100%" height="200" align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" /></a></p>
 
 
   
