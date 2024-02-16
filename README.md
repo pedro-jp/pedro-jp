@@ -29,13 +29,13 @@
   <a href="https://github.com/pedro-jp">
     <img width="36%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" />
   </a>
-  <a href="/#year-link-2024">
+  <a href="https://github.com/pedro-jp#year-link-2024">
     <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true" alt="pedro-jp" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pedro-jp">
+  <a href="https://github.com/pedro-jp#year-link-2024">
     <img width="100%" height="200" align="center" alt="pedro-jp" src="https://github-readme-stats.vercel.app/api?username=pedro-jp&hide=stars,issues,contribs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   </a>
 </p>
