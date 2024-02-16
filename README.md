@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=100"/>
 
-<h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=57BCDA&center=true&vCenter=true&random=false&width=635&height=50&lines=Hey+there!+I'm+Thalita+Alencar.;Nice+to+meet+you!;Full-Stack+Developer+" alt="Typing SVG" /></a></h1>
+<h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=57BCDA&center=true&vCenter=true&random=false&width=635&height=50&lines=Hey+there!+I'm+João+Pedro;Nice+to+meet+you!;Full-Stack+Developer+" alt="Typing SVG" /></a></h1>
 <div>
   <h2 align "justified">About me</h2>
   <img align = "right" src= "https://dev-pedro-portfolio.vercel.app/assets/perfil-disney.png?" width="150" height="150">
@@ -24,8 +24,8 @@
   <br> <br> <br> <br> <br> <br> <br>
   <h2 align = "justified"></h2>
   <p align="center">
-      <a href="https://www.linkedin.com/in/thalita-de-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href = "mailto:thafalenc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/pedro-jp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href = "mailto:joaopedroc035@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
 </div>
 
