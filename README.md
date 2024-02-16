@@ -15,8 +15,11 @@
 </p>
 </div>
 <div>
-  <h2 align = "justified" display="flex" >GitHub Stats</h2>
+  <h2 align = "justified" display = "flex" >GitHub Stats</h2>
  <div> 
+
+ ![](https://raw.githubusercontent.com/pedro-jp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/pedro-jp/github-stats/master/generated/overview.svg#gh-light-mode-only)
  
 ![pedro-jp's Stats](https://github-readme-stats.vercel.app/api?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
   
