@@ -1,7 +1,7 @@
 <div>
   <h2>About me</h2>
   <p style="width: 50%; text-align: justify">
-    I'm João Pedro, a Computer Engineering student at Fecaf with a passion for technology. I thrive on continuous learning and strive to contribute to the ever-evolving field of software development. Aspiring Full Stack Developer.
+   Hi! I'm João Pedro, a Computational Engineering student and frontend developer since 2019. My passion for the world of technology has led me to explore the coding universe. I constantly strive to enhance my skills to keep up with the rapid changes in the technological landscape. Whether creating intuitive interfaces or delving into computational engineering, I approach each challenge with enthusiasm and dedication. I believe in the power of innovation to drive positive changes and am eager to contribute my experience to shaping the digital future. Let's code the world together!
   </p>
   
 </div>
