@@ -2,12 +2,6 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=100"/>
 </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=57BCDA&center=true&vCenter=true&random=false&width=635&height=50&lines=Hey+there!+I'm+João+Pedro;Nice+to+meet+you!;Full-Stack+Developer+" alt="Typing SVG" />
-  </a>
-</h1>
-
 <div>
   <h2>About me</h2>
   <p style="width: 50%; text-align: justify">
