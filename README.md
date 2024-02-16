@@ -8,11 +8,13 @@
   </a>
 </h1>
 
-<div>
-  <h2 align="justified">About me</h2>
-  <p>
-    I'm João Pedro, a Computer Engineering student at FECaf with a passion for technology. I thrive on continuous learning and strive to contribute to the ever-evolving field of software development. Aspiring Full Stack Developer.
+<div style="height: 180px">
+  <h2>About me</h2>
+  <img align = "right" src= "https://dev-pedro-portfolio.vercel.app/assets/perfil-disney.png?" width="180" height="180">
+  <p style="width: 50%; text-align: justify">
+    I'm João Pedro, a Computer Engineering student at Fecaf with a passion for technology. I thrive on continuous learning and strive to contribute to the ever-evolving field of software development. Aspiring Full Stack Developer.
   </p>
+  
 </div>
 
 <div>
@@ -30,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/pedro-jp">
-    <img margin="0" width="45%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" />
+    <img width="36%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" />
   </a>
   <a href="https://github.com/pedro-jp">
     <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=tokyonight&hide_border=true" alt="pedro-jp" />
@@ -44,7 +46,7 @@
 </p>
 
 <div> 
-  <br> 
+  <br>
   <h2 align="justified"></h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/pedro-jp" target="_blank">
