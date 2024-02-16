@@ -1,7 +1,3 @@
-<p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=100"/>
-</p>
-
 <div>
   <h2>About me</h2>
   <p style="width: 50%; text-align: justify">
@@ -50,7 +46,3 @@
     </a>
   </p>
 </div>
-
-<p align="center">
-  <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=61dafb"/>
-</p>
