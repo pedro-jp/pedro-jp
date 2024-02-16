@@ -29,8 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" /></p>
 
-![pedro-jp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 </div>
   
 
