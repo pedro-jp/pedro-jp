@@ -1,9 +1,3 @@
-<style>
-  *{
-    scroll-behavior: smooth;
-  }
-</style>
-
 <div>
   <h2>About me</h2>
   <p style="width: 50%; text-align: justify">
@@ -26,7 +20,7 @@
 </div> 
 
 <p align="center">
-  <a href="https://github.com/pedro-jp">
+  <a href="https://github.com/pedro-jp#dialog-show-dialog-f9b4c3f1-1274-43a1-9be3-c7f765df7071">
     <img width="36%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" />
   </a>
   <a href="https://github.com/pedro-jp#year-link-2024">
