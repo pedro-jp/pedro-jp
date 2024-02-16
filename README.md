@@ -4,7 +4,7 @@
 <div>
   <h2 align "justified">About me</h2>
   <p width="50">Passionate about exploring the diversity of technology, I am currently immersed in the field of Computer Engineering at FECaf. My focus revolves around continual learning, incorporating new insights and competencies daily. Aspiring to become a Full Stack Developer, I actively contribute to shaping the future of software development.</p>
-  <img align = "right" src= "https://dev-pedro-portfolio.vercel.app/assets/perfil-disney.png?" width="180" height="180">
+
 <p><br>
 </div>
 <div>
