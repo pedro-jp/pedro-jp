@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<div style="height: 180px">
+<div style="height: 2000px">
   <h2>About me</h2>
   <img align = "right" src= "https://dev-pedro-portfolio.vercel.app/assets/perfil-disney.png?" width="180" height="180">
   <p style="width: 50%; text-align: justify">
