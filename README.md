@@ -17,9 +17,16 @@
 <div>
   <h2 align = "justified" display = "flex" >GitHub Stats</h2>
  <div> 
+<h3 align="center">A passionate frontend developer from India</h3>
 
- ![](https://raw.githubusercontent.com/pedro-jp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/pedro-jp/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-jp&show_icons=true&locale=en&layout=compact" alt="pedro-jp" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-jp&show_icons=true&locale=en" alt="pedro-jp" /></p>
+
  
 ![pedro-jp's Stats](https://github-readme-stats.vercel.app/api?username=pedro-jp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
   
