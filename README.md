@@ -33,16 +33,3 @@
     <img width="100%" height="200" align="center" alt="pedro-jp" src="https://github-readme-stats.vercel.app/api?username=pedro-jp&hide=stars,issues,contribs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   </a>
 </p>
-
-<div> 
-  <br>
-  <h2 align="justified"></h2>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/pedro-jp" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-    <a href="mailto:joaopedroc035@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-  </p>
-</div>
