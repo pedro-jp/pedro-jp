@@ -1,3 +1,9 @@
+<style>
+  *{
+    scroll-behavior: smooth;
+  }
+</style>
+
 <div>
   <h2>About me</h2>
   <p style="width: 50%; text-align: justify">
