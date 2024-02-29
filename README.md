@@ -20,7 +20,7 @@
   </p>
 </div>
 
- ![Snake animation](https://github.com/Patricia-Bandeira/pedro-jp/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/pedro-jp/pedro-jp/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <h2 align="justified">GitHub Stats</h2>
