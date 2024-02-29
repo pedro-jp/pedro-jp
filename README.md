@@ -13,7 +13,7 @@
 
  ![Snake animation](https://github.com/pedro-jp/pedro-jp/blob/output/github-contribution-grid-snake.svg)
  
- [![readme](https://github-readme-stats.vercel.app/api/pin/username=pedro-jp&repo=pedro-jp&theme=react)](https://github.com/pedro-jp/pedro-jp)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=pedro-jp&repo=pedro-jp&theme=react)](https://github.com/pedro-jp/pedro-jp)
 
 <div>
   <h2 align="justified">Skills</h2>
