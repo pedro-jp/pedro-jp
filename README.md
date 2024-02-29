@@ -10,7 +10,7 @@
 
   
 </div>
-
+![snake gif](https://github.com/pedro-jp/pedro-jp/blob/output/github-contribution-grid-snake.gif)
 <div>
   <h2 align="justified">Skills</h2>
   <p align="center">
