@@ -7,7 +7,6 @@
   <p style="width: 50%; text-align: justify">
    Hi! I'm João Pedro, a Computational Engineering student and frontend developer since 2019. My passion for the world of technology has led me to explore the coding universe. I constantly strive to enhance my skills to keep up with the rapid changes in the technological landscape. Whether creating intuitive interfaces or delving into computational engineering, I approach each challenge with enthusiasm and dedication. I believe in the power of innovation to drive positive changes and am eager to contribute my experience to shaping the digital future. Let's code the world together!
   </p>
-
   
 </div>
 
@@ -15,6 +14,7 @@
   <h2 align="justified">Skills</h2>
   <p align="center">
     <a href="https://skillicons.dev">
+
       <img src="https://skillicons.dev/icons?i=js,typescript,css,react,next,git,docker,nodejs,mysql" />
     </a>
   </p>
