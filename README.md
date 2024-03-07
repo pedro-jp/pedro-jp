@@ -2,13 +2,6 @@
   <p style="width: 50%; text-align: justify">
     Olá! Sou João Pedro, estudante de Engenharia Computacional e desenvolvedor frontend desde 2019. Minha paixão pelo mundo da tecnologia me levou a explorar o universo da programação. Estou constantemente em busca de aprimorar minhas habilidades para acompanhar as rápidas mudanças no cenário tecnológico. Seja criando interfaces intuitivas ou mergulhando na engenharia computacional, abordo cada desafio com entusiasmo e dedicação. Acredito no poder da inovação para impulsionar mudanças positivas e estou ansioso para contribuir com minha experiência para moldar o futuro digital. Vamos programar o mundo juntos!
   </p>
-<div>
-  <h2>About me</h2>
-  <p style="width: 50%; text-align: justify">
-   Hi! I'm João Pedro, a Computational Engineering student and frontend developer since 2019. My passion for the world of technology has led me to explore the coding universe. I constantly strive to enhance my skills to keep up with the rapid changes in the technological landscape. Whether creating intuitive interfaces or delving into computational engineering, I approach each challenge with enthusiasm and dedication. I believe in the power of innovation to drive positive changes and am eager to contribute my experience to shaping the digital future. Let's code the world together!
-  </p>
-  
-</div>
 
 <div>
   <h2 align="justified">Skills</h2>
@@ -20,7 +13,7 @@
 </div>
 
 <div>
-  <h2 align="justified">GitHub Stats</h2>
+  <h2 align="justified">GitHub Status</h2>
 </div> 
 
 <p align="center">
