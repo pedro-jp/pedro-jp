@@ -21,4 +21,4 @@
   </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/018de038-471b-4701-84f4-c0743b56e29a.svg)](https://wakatime.com/@018de038-471b-4701-84f4-c0743b56e29a)
+<img href="https://wakatime.com/badge/user/018de038-471b-4701-84f4-c0743b56e29a.svg">
