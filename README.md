@@ -1,6 +1,6 @@
   <h2>Sobre mim</h2>
   <p style="width: 50%; text-align: justify">
-    Olá! Sou João Pedro, estudante de Engenharia Computacional e desenvolvedor frontend desde 2019. Minha paixão pelo mundo da tecnologia me levou a explorar o universo da programação. Estou constantemente em busca de aprimorar minhas habilidades para acompanhar as rápidas mudanças no cenário tecnológico. Seja criando interfaces intuitivas ou mergulhando na engenharia computacional, abordo cada desafio com entusiasmo e dedicação. Acredito no poder da inovação para impulsionar mudanças positivas e estou ansioso para contribuir com minha experiência para moldar o futuro digital. Vamos programar o mundo juntos!
+    Olá! Sou João Pedro, estudante de Engenharia da computação e desenvolvedor frontend desde 2019. Minha paixão pelo mundo da tecnologia me levou a explorar o universo da programação. Estou constantemente em busca de aprimorar minhas habilidades para acompanhar as rápidas mudanças no cenário tecnológico. Seja criando interfaces intuitivas ou mergulhando na engenharia computacional, abordo cada desafio com entusiasmo e dedicação. Acredito no poder da inovação para impulsionar mudanças positivas e estou ansioso para contribuir com minha experiência para moldar o futuro digital. Vamos programar o mundo juntos!
   </p>
 
 <div>
