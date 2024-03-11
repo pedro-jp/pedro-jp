@@ -20,3 +20,4 @@
     <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=transparent&hide_border=true" alt="pedro-jp" />
   </a>
 </p>
+[![wakatime](https://wakatime.com/badge/user/018de038-471b-4701-84f4-c0743b56e29a.svg)](https://wakatime.com/@018de038-471b-4701-84f4-c0743b56e29a)
