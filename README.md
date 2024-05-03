@@ -3,7 +3,7 @@
   <h2 align="justified">Skills</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,typescript,css,react,next,react-native,git,docker,nodejs,mysql,cpp,arduino" />
+      <img src="https://skillicons.dev/icons?i=js,typescript,css,react,next,git,docker,nodejs,mysql,cpp,arduino" />
     </a>
   </p>
 </div>
