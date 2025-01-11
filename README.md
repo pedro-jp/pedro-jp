@@ -9,7 +9,7 @@
 
 <div style="max-width: 500px; margin-inline: auto" align="center">
   <a style="width:100" style="display: grid; place-content: center"  href="https://github.com/pedro-jp#dialog-show-dialog-f9b4c3f1-1274-43a1-9be3-c7f765df7071">
-  <img width="80%" style="margin-inline: auto"  align="center" src="https://github-readme-stats-five-swart-24.vercel.app/api/top-langs/?username=pedro-jp&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" />
+  <img width="80%" style="margin-inline: auto"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" />
   </a>
 </div>
 
