@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/pedro-jp#dialog-show-dialog-f9b4c3f1-1274-43a1-9be3-c7f765df7071">
-  <img width="45%"  align="left" src="https://github-readme-stats-five-swart-24.vercel.app/api/top-langs/?username=pedro-jp&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" />
+  <img width="45%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" />
   </a>
   <a href="https://github.com/pedro-jp#year-link-2024">
     <img width="40%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-jp&theme=transparent&hide_border=true" alt="pedro-jp" />
