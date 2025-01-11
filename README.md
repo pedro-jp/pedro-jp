@@ -8,7 +8,7 @@
   </p>
 </div>
 
-<div >
+<div style="max-width: 500px; margin-inline: auto">
   <a href="https://github.com/pedro-jp#dialog-show-dialog-f9b4c3f1-1274-43a1-9be3-c7f765df7071">
     <img width="100%"  align="left" src="https://github-readme-stats-five-swart-24.vercel.app/api?username=pedro-jp&theme=transparent&show_icons=true&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="pedro-jp" />
   </a>
