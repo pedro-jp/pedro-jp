@@ -11,7 +11,10 @@
   <a href="https://github.com/pedro-jp#dialog-show-dialog-f9b4c3f1-1274-43a1-9be3-c7f765df7071">
   <img width="45%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jp&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="pedro-jp" />
   </a>
+  <img>
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedro-jp&theme=transparent&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  
+</img>
 </p>
 
 <div style="max-width: 500px; margin-inline: auto" align="center">
