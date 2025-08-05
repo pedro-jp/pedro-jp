@@ -1,5 +1,3 @@
-![snake gif](https://github.com/pedro-jp/pedro-jp/blob/output/dist/github-snake-dark.svg?palette=github-dark)
-
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
