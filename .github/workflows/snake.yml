@@ -1,7 +1,26 @@
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ pedro-jp }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: pedro-jp
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generated snake"
+          branch: output
+          add: "dist/*"
